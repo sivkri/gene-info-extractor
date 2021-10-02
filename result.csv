@@ -1,0 +1,763 @@
+AT1G07400,Response to chemical,Response to antibiotic,Response to drug,Response to stress,Response to oxygen-containing compound,Response to toxic substance
+AT4G03360,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT3G56970,Response to stress,Response to external stimulus
+AT2G02720,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT3G22490,Response to chemical
+AT3G56350,Response to chemical,Response to stress,Oxidation-reduction process,Response to oxygen-containing compound,Response to toxic substance
+AT4G33070,Response to stress
+AT3G03540,Lipid metabolic process,Response to stress,Catabolic process,Cellular catabolic process,Response to external stimulus,Organic substance catabolic process
+AT2G45580,Oxidation-reduction process
+AT2G39030,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance,Defense response
+AT1G70680,Oxidation-reduction process
+AT3G60140,Response to stress,Catabolic process,Cellular catabolic process,Secondary metabolic process,Organic substance catabolic process
+AT5G46040,Response to biotic stimulus,Response to external stimulus,Response to other organism,Response to external biotic stimulus
+AT5G28510,Response to stress,Catabolic process,Cellular catabolic process,Secondary metabolic process,Organic substance catabolic process
+AT5G65165,Oxidation-reduction process
+AT3G30210,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT4G26260,Cellular catabolic process,Catabolic process,Oxidation-reduction process,Organic substance catabolic process
+AT3G44300,Cellular catabolic process,Catabolic process,Organic substance catabolic process,Response to chemical
+AT2G30290,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT5G51760,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT5G24770,Response to wounding,Response to acid chemical,Response to other organism,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT1G73260,Response to wounding,Response to acid chemical,Response to other organism,Response to chemical,Response to antibiotic,Response to stress,Response to drug,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to toxic substance,Response to organic substance,Response to external stimulus,Defense response
+AT3G01420,Response to acid chemical,Lipid metabolic process,Response to other organism,Response to chemical,Response to antibiotic,Response to stress,Catabolic process,Response to drug,Response to oxygen-containing compound,Oxidation-reduction process,Response to external biotic stimulus,Response to biotic stimulus,Response to toxic substance,Response to organic substance,Cellular catabolic process,Response to external stimulus,Defense response,Organic substance catabolic process
+AT5G43570,Response to wounding,Response to stress,Defense response
+AT3G20395,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT4G37990,Response to other organism,Oxidation-reduction process,Response to external biotic stimulus,Response to biotic stimulus,Phenylpropanoid metabolic process,Response to external stimulus,Secondary metabolic process
+AT1G67110,Oxidation-reduction process
+AT2G29380,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT3G47040,Catabolic process,Organic substance catabolic process
+AT5G66160,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT4G21120,Response to drug,Response to chemical
+AT5G04150,Response to stress,Response to external stimulus
+AT4G28110,Response to acid chemical,Response to chemical,Response to drug,Response to oxygen-containing compound,Response to organic substance
+AT5G58050,Lipid metabolic process
+AT1G06120,Oxidation-reduction process,Lipid metabolic process
+AT5G25130,Oxidation-reduction process
+AT2G29470,Response to chemical,Catabolic process,Response to toxic substance,Cellular catabolic process,Secondary metabolic process
+AT4G37430,Oxidation-reduction process,Secondary metabolic process
+AT5G13220,Response to wounding,Response to acid chemical,Response to other organism,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT1G65690,Response to acid chemical,Lipid metabolic process,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance,Secondary metabolic process
+AT4G10500,Response to acid chemical,Response to other organism,Response to chemical,Response to antibiotic,Response to stress,Catabolic process,Response to drug,Response to oxygen-containing compound,Oxidation-reduction process,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Cellular catabolic process,Response to external stimulus,Defense response,Organic substance catabolic process
+AT1G65610,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT2G45220,Response to other organism,Response to stress,Catabolic process,Response to external biotic stimulus,Response to biotic stimulus,Cellular catabolic process,Response to external stimulus,Defense response,Organic substance catabolic process
+AT2G33080,Response to organic substance,Response to stress,Response to oxygen-containing compound,Response to chemical
+AT3G02150,Response to stress,Defense response
+AT1G03220,Response to stress,Catabolic process,Organic substance catabolic process
+AT1G76470,Oxidation-reduction process
+AT4G37070,Lipid metabolic process,Response to stress,Catabolic process,Defense response,Organic substance catabolic process
+AT4G13890,Response to acid chemical,Response to chemical,Catabolic process,Response to oxygen-containing compound,Response to organic substance,Cellular catabolic process,Organic substance catabolic process
+AT5G09640,Secondary metabolic process
+AT5G48010,Lipid metabolic process
+AT4G16563,Catabolic process,Organic substance catabolic process
+AT2G19500,Catabolic process,Oxidation-reduction process
+AT5G48570,Response to stress
+AT2G33380,Response to acid chemical,Lipid metabolic process,Response to other organism,Response to chemical,Response to antibiotic,Response to stress,Response to drug,Oxidation-reduction process,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT5G52640,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT4G16760,Response to wounding,Lipid metabolic process,Response to other organism,Response to chemical,Response to stress,Catabolic process,Oxidation-reduction process,Response to external biotic stimulus,Response to biotic stimulus,Cellular catabolic process,Response to external stimulus,Organic substance catabolic process
+AT5G49620,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT4G21440,Response to wounding,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance,Defense response
+AT5G13080,Response to stress,Response to external stimulus
+AT5G20940,Catabolic process,Organic substance catabolic process
+AT5G13580,Response to other organism,Response to external biotic stimulus,Response to biotic stimulus,Phenylpropanoid metabolic process,Response to external stimulus,Secondary metabolic process
+AT2G26150,Response to chemical,Response to antibiotic,Response to drug,Response to stress,Response to oxygen-containing compound,Response to toxic substance,Response to organic substance
+AT5G47990,Oxidation-reduction process,Response to external stimulus,Lipid metabolic process
+AT5G25190,Response to organic substance,Response to chemical
+AT3G22830,Response to stress
+AT1G47510,Response to acid chemical,Lipid metabolic process,Response to chemical,Response to stress,Catabolic process,Response to oxygen-containing compound,Response to organic substance,Organic substance catabolic process
+AT2G17845,Oxidation-reduction process
+AT2G14210,Response to acid chemical,Response to oxygen-containing compound,Response to external stimulus,Response to chemical
+AT1G10360,Response to chemical,Catabolic process,Response to toxic substance,Cellular catabolic process,Secondary metabolic process
+AT5G15180,Response to chemical,Response to stress,Catabolic process,Oxidation-reduction process,Response to toxic substance,Cellular catabolic process
+AT5G55410,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT1G52690,Response to stress,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT2G19900,Oxidation-reduction process
+AT4G16740,Response to wounding,Response to acid chemical,Lipid metabolic process,Response to other organism,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus
+AT3G46230,Response to chemical,Response to antibiotic,Response to drug,Response to stress,Response to oxygen-containing compound,Response to toxic substance
+AT1G09510,Oxidation-reduction process
+AT1G69790,Response to stress,Defense response
+AT5G48000,Oxidation-reduction process,Lipid metabolic process
+AT1G32350,Oxidation-reduction process
+AT5G50260,Response to other organism,Response to stress,Catabolic process,Response to external biotic stimulus,Response to biotic stimulus,Cellular catabolic process,Response to external stimulus,Defense response,Organic substance catabolic process
+AT3G11340,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT4G34410,Response to other organism,Response to chemical,Response to drug,Response to stress,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT2G40170,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT1G62620,Oxidation-reduction process
+AT5G10720,Response to acid chemical,Response to other organism,Response to chemical,Response to antibiotic,Response to stress,Response to drug,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to toxic substance,Response to organic substance,Response to external stimulus,Defense response
+AT4G23150,Response to other organism,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT5G57510,Response to stress,Response to chemical
+AT1G32960,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT5G13170,Response to acid chemical,Response to chemical,Response to antibiotic,Response to drug,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT5G62165,Response to stress
+AT1G44130,Catabolic process,Organic substance catabolic process
+AT1G65890,Lipid metabolic process
+AT2G34600,Response to wounding,Response to acid chemical,Response to chemical,Response to drug,Response to stress,Response to oxygen-containing compound,Response to organic substance,Defense response
+AT1G18350,Response to acid chemical,Response to other organism,Response to chemical,Response to antibiotic,Response to stress,Response to drug,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT5G06730,Response to chemical,Response to stress,Catabolic process,Oxidation-reduction process,Response to toxic substance,Cellular catabolic process
+AT3G09640,Response to chemical,Response to stress,Catabolic process,Oxidation-reduction process,Response to oxygen-containing compound,Response to toxic substance,Cellular catabolic process
+AT4G11880,Response to stress
+AT5G25140,Oxidation-reduction process
+AT3G03620,Response to drug,Response to chemical
+AT5G25910,Response to other organism,Response to chemical,Response to drug,Response to stress,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT5G41040,Phenylpropanoid metabolic process,Secondary metabolic process
+AT3G48340,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT2G04100,Response to drug,Response to chemical
+AT3G53160,Response to biotic stimulus,Response to external stimulus,Response to other organism,Response to external biotic stimulus
+AT1G30760,Oxidation-reduction process
+AT4G23600,Response to wounding,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to toxic substance,Response to organic substance
+AT2G18150,Response to chemical,Response to stress,Catabolic process,Oxidation-reduction process,Response to toxic substance,Cellular catabolic process
+AT3G10040,Response to stress,Response to chemical
+AT5G05600,Response to acid chemical,Response to chemical,Oxidation-reduction process,Response to oxygen-containing compound,Response to toxic substance,Response to organic substance
+AT1G30850,Response to stress
+AT5G62800,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT5G12270,Response to chemical,Response to antibiotic,Response to drug,Response to stress,Oxidation-reduction process,Response to oxygen-containing compound,Phenylpropanoid metabolic process,Response to toxic substance,Secondary metabolic process
+AT1G35140,Response to stress
+AT5G58860,Lipid metabolic process,Oxidation-reduction process,Phenylpropanoid metabolic process,Secondary metabolic process
+AT3G26220,Oxidation-reduction process
+AT1G21270,Response to acid chemical,Response to antibiotic,Response to chemical,Response to drug,Response to oxygen-containing compound,Response to organic substance
+AT4G02330,Response to other organism,Response to chemical,Response to stress,Catabolic process,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Cellular catabolic process,Response to external stimulus,Organic substance catabolic process
+AT4G37530,Response to chemical,Response to stress,Catabolic process,Oxidation-reduction process,Response to toxic substance,Cellular catabolic process
+AT5G61850,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT5G20250,Response to stress
+AT5G48070,Response to organic substance,Response to chemical
+AT4G36950,Response to stress,Lipid metabolic process
+AT1G04580,Response to acid chemical,Lipid metabolic process,Response to chemical,Response to antibiotic,Response to drug,Response to stress,Oxidation-reduction process,Response to oxygen-containing compound,Response to toxic substance,Response to organic substance,Secondary metabolic process
+AT3G61190,Response to wounding,Response to acid chemical,Response to chemical,Response to antibiotic,Response to drug,Response to stress,Response to oxygen-containing compound,Response to organic substance,Defense response
+AT5G10230,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to toxic substance
+AT1G80440,Response to organic substance,Phenylpropanoid metabolic process,Secondary metabolic process,Response to chemical
+AT3G21460,Oxidation-reduction process
+AT5G08250,Oxidation-reduction process
+AT4G16220,Catabolic process,Lipid metabolic process,Organic substance catabolic process
+AT5G67490,Oxidation-reduction process
+AT3G48520,Response to wounding,Response to other organism,Response to stress,Oxidation-reduction process,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT1G60470,Response to stress
+AT3G01260,Catabolic process,Organic substance catabolic process
+AT3G11480,Response to wounding,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT4G04460,Catabolic process,Lipid metabolic process,Organic substance catabolic process,Response to chemical
+AT3G51440,Response to wounding,Response to acid chemical,Response to other organism,Response to chemical,Response to antibiotic,Response to stress,Response to drug,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus
+AT1G30700,Oxidation-reduction process
+AT5G40645,Response to stress,Defense response
+AT5G48100,Response to chemical,Catabolic process,Oxidation-reduction process,Phenylpropanoid metabolic process,Cellular catabolic process,Secondary metabolic process,Organic substance catabolic process
+AT2G15080,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT3G22640,Response to other organism,Response to chemical,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus
+AT4G37970,Oxidation-reduction process,Phenylpropanoid metabolic process,Secondary metabolic process
+AT5G63970,Response to wounding,Response to acid chemical,Response to other organism,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT4G37050,Response to acid chemical,Lipid metabolic process,Response to chemical,Response to stress,Catabolic process,Response to oxygen-containing compound,Response to organic substance,Defense response,Organic substance catabolic process
+AT5G10990,Response to organic substance,Response to chemical
+AT4G23140,Response to other organism,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT1G48820,Lipid metabolic process
+AT3G44290,Response to organic substance,Response to oxygen-containing compound,Response to chemical
+AT1G43040,Response to organic substance,Response to chemical
+AT5G62520,Response to stress
+AT2G42850,Oxidation-reduction process,Lipid metabolic process
+AT3G21860,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT1G71140,Response to drug,Response to chemical
+AT4G39480,Oxidation-reduction process
+AT5G01550,Response to acid chemical,Response to other organism,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT1G73750,Lipid metabolic process
+AT4G34030,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT3G44860,Response to wounding,Response to acid chemical,Response to other organism,Response to chemical,Response to antibiotic,Response to stress,Response to drug,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus
+AT5G39890,Response to stress,Oxidation-reduction process,Response to chemical
+AT1G61820,Phenylpropanoid metabolic process,Secondary metabolic process
+AT1G61810,Phenylpropanoid metabolic process,Secondary metabolic process
+AT3G03480,Lipid metabolic process
+AT5G49360,Catabolic process,Organic substance catabolic process
+AT5G50915,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT3G26230,Oxidation-reduction process
+AT5G38030,Response to other organism,Response to chemical,Response to drug,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus
+AT1G25054,Lipid metabolic process
+AT2G32290,Catabolic process,Organic substance catabolic process
+AT5G43580,Response to wounding,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT3G12580,Response to other organism,Response to chemical,Response to antibiotic,Response to drug,Response to stress,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to toxic substance,Response to organic substance,Response to external stimulus
+AT1G70290,Response to stress
+AT4G37520,Response to chemical,Response to stress,Catabolic process,Oxidation-reduction process,Response to toxic substance,Cellular catabolic process
+AT4G17670,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance,Response to external stimulus
+AT3G08870,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT3G09220,Catabolic process,Oxidation-reduction process,Phenylpropanoid metabolic process,Cellular catabolic process,Secondary metabolic process,Organic substance catabolic process
+AT2G37870,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT2G29360,Oxidation-reduction process
+AT1G69480,Response to stress,Response to external stimulus
+AT1G76650,Response to wounding,Response to stress
+AT3G24500,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT3G19390,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT5G10300,Response to wounding,Response to stress,Catabolic process,Organic substance catabolic process
+AT1G31690,Oxidation-reduction process
+AT5G60020,Catabolic process,Oxidation-reduction process,Phenylpropanoid metabolic process,Cellular catabolic process,Secondary metabolic process,Organic substance catabolic process
+AT1G15380,Response to acid chemical,Response to antibiotic,Response to chemical,Response to drug,Response to oxygen-containing compound,Response to organic substance
+AT3G14620,Oxidation-reduction process
+AT3G45290,Response to stress,Response to biotic stimulus,Defense response
+AT1G74310,Response to chemical,Response to antibiotic,Response to drug,Response to stress,Response to oxygen-containing compound,Response to toxic substance
+AT3G23150,Response to organic substance,Response to chemical
+AT3G50980,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT4G09760,Lipid metabolic process
+AT3G20940,Oxidation-reduction process
+AT5G05340,Response to chemical,Response to stress,Catabolic process,Oxidation-reduction process,Phenylpropanoid metabolic process,Response to toxic substance,Cellular catabolic process,Secondary metabolic process
+AT2G34810,Response to wounding,Response to acid chemical,Response to chemical,Response to stress,Oxidation-reduction process,Response to oxygen-containing compound,Response to organic substance
+AT3G48450,Response to stress,Defense response
+AT2G40370,Response to chemical,Catabolic process,Oxidation-reduction process,Phenylpropanoid metabolic process,Cellular catabolic process,Secondary metabolic process,Organic substance catabolic process
+AT3G29670,Response to toxic substance,Response to chemical
+AT1G66280,Response to stress,Catabolic process,Cellular catabolic process,Secondary metabolic process,Organic substance catabolic process
+AT2G37700,Oxidation-reduction process,Lipid metabolic process
+AT2G25160,Oxidation-reduction process,Secondary metabolic process
+AT3G44550,Response to wounding,Lipid metabolic process,Response to stress,Oxidation-reduction process,Phenylpropanoid metabolic process,Secondary metabolic process
+AT2G15890,Response to other organism,Response to chemical,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT3G28210,Response to acid chemical,Response to chemical,Response to drug,Response to oxygen-containing compound,Response to organic substance
+AT2G39200,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT5G15120,Response to stress,Oxidation-reduction process,Response to chemical
+AT5G27350,Response to biotic stimulus,Response to external stimulus,Response to other organism,Response to external biotic stimulus
+AT1G15670,Response to organic substance,Phenylpropanoid metabolic process,Secondary metabolic process,Response to chemical
+AT5G35980,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT1G18420,Response to stress,Response to external stimulus
+AT4G26270,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT1G75000,Lipid metabolic process
+AT3G26180,Oxidation-reduction process
+AT3G53250,Response to organic substance,Response to chemical
+AT5G14180,Lipid metabolic process,Response to other organism,Response to stress,Catabolic process,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response,Organic substance catabolic process
+AT5G38900,Response to other organism,Response to stress,Oxidation-reduction process,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT2G29500,Response to chemical,Response to antibiotic,Response to drug,Response to stress,Response to oxygen-containing compound,Response to toxic substance
+AT1G67100,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT4G21830,Response to chemical,Response to drug,Response to stress,Oxidation-reduction process,Response to oxygen-containing compound,Response to external stimulus
+AT2G45040,Catabolic process
+AT3G47950,Response to stress
+AT2G43570,Response to other organism,Response to chemical,Response to stress,Catabolic process,Response to external biotic stimulus,Response to biotic stimulus,Response to toxic substance,Response to organic substance,Cellular catabolic process,Response to external stimulus,Defense response,Organic substance catabolic process
+AT5G24240,Response to acid chemical,Lipid metabolic process,Response to chemical,Response to oxygen-containing compound,Response to organic substance
+AT3G22550,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance,Response to external stimulus
+AT3G11580,Secondary metabolic process
+AT4G20110,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT2G18300,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT4G33420,Response to chemical,Response to stress,Catabolic process,Oxidation-reduction process,Response to toxic substance,Cellular catabolic process
+AT1G67070,Response to acid chemical,Response to chemical,Response to drug,Response to oxygen-containing compound,Response to toxic substance,Response to organic substance,Response to external stimulus
+AT3G60130,Response to stress,Catabolic process,Cellular catabolic process,Secondary metabolic process,Organic substance catabolic process
+AT5G07390,Oxidation-reduction process,Response to toxic substance,Response to chemical
+AT3G08860,Response to external stimulus
+AT3G17860,Response to wounding,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance,Defense response
+AT5G50600,Oxidation-reduction process,Lipid metabolic process
+AT5G19520,Response to external stimulus
+AT3G10450,Secondary metabolic process
+AT2G38340,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT1G05610,Oxidation-reduction process
+AT5G05390,Catabolic process,Oxidation-reduction process,Phenylpropanoid metabolic process,Cellular catabolic process,Secondary metabolic process,Organic substance catabolic process
+AT5G56980,Response to wounding,Response to acid chemical,Response to other organism,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT4G37980,Lipid metabolic process,Response to other organism,Oxidation-reduction process,Response to external biotic stimulus,Response to biotic stimulus,Phenylpropanoid metabolic process,Response to external stimulus,Secondary metabolic process
+AT1G72430,Response to organic substance,Response to chemical
+AT1G68765,Response to other organism,Response to chemical,Response to stress,Catabolic process,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Cellular catabolic process,Response to external stimulus,Defense response,Organic substance catabolic process
+AT4G20860,Response to acid chemical,Response to chemical,Oxidation-reduction process,Response to oxygen-containing compound,Response to organic substance
+AT3G44540,Response to wounding,Lipid metabolic process,Response to stress,Oxidation-reduction process,Phenylpropanoid metabolic process,Secondary metabolic process
+AT4G29380,Cellular catabolic process,Catabolic process
+AT4G15760,Response to other organism,Oxidation-reduction process,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus
+AT3G45680,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus
+AT2G46240,Response to other organism,Response to chemical,Response to antibiotic,Response to stress,Catabolic process,Response to drug,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to toxic substance,Cellular catabolic process,Response to external stimulus,Defense response
+AT5G05190,Response to acid chemical,Response to other organism,Response to chemical,Response to antibiotic,Response to stress,Response to drug,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT2G32300,Oxidation-reduction process
+AT4G15400,Response to organic substance,Lipid metabolic process,Response to oxygen-containing compound,Response to chemical
+AT2G25940,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT5G37690,Catabolic process,Lipid metabolic process,Organic substance catabolic process
+AT4G34890,Response to acid chemical,Response to chemical,Response to stress,Catabolic process,Oxidation-reduction process,Response to oxygen-containing compound,Cellular catabolic process,Organic substance catabolic process
+AT2G43510,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT1G62660,Response to acid chemical,Response to other organism,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus
+AT2G19570,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT5G54730,Response to stress,Catabolic process,Response to external stimulus,Cellular catabolic process
+AT5G36910,Response to stress,Defense response
+AT1G72180,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance,Response to external stimulus
+AT1G31490,Oxidation-reduction process
+AT3G10550,Response to acid chemical,Lipid metabolic process,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to external stimulus
+AT4G11310,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT5G42930,Lipid metabolic process
+AT4G16690,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT5G46330,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT3G13730,Oxidation-reduction process,Lipid metabolic process
+AT2G46760,Oxidation-reduction process
+AT5G06090,Lipid metabolic process
+AT5G59220,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT4G19720,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT4G20140,Response to wounding,Response to stress
+AT1G63245,Response to stress,Response to external stimulus
+AT2G26020,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT1G54490,Response to stress,Catabolic process,Organic substance catabolic process,Cellular catabolic process
+AT5G24780,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance,Defense response
+AT4G08950,Response to organic substance,Response to oxygen-containing compound,Response to chemical
+AT2G47260,Response to other organism,Response to chemical,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus
+AT1G02860,Response to acid chemical,Response to other organism,Response to chemical,Response to antibiotic,Response to stress,Response to drug,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT5G42800,Oxidation-reduction process
+AT1G72490,Response to external stimulus
+AT1G59940,Response to organic substance,Response to chemical
+AT1G11580,Response to other organism,Response to stress,Catabolic process,Response to external biotic stimulus,Response to biotic stimulus,Cellular catabolic process,Response to external stimulus,Defense response,Organic substance catabolic process
+AT5G50950,Response to stress,Catabolic process,Oxidation-reduction process,Cellular catabolic process,Organic substance catabolic process
+AT5G65640,Lipid metabolic process,Catabolic process,Cellular catabolic process,Secondary metabolic process,Organic substance catabolic process
+AT5G57090,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance,Response to external stimulus
+AT3G16470,Response to wounding,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT5G24530,Response to acid chemical,Response to other organism,Response to chemical,Response to antibiotic,Response to stress,Catabolic process,Response to drug,Response to oxygen-containing compound,Oxidation-reduction process,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Cellular catabolic process,Response to external stimulus,Defense response,Organic substance catabolic process
+AT4G26288,Response to stress,Response to chemical
+AT5G06720,Response to other organism,Response to chemical,Response to stress,Catabolic process,Oxidation-reduction process,Response to external biotic stimulus,Response to biotic stimulus,Response to toxic substance,Cellular catabolic process,Response to external stimulus,Defense response
+AT1G17020,Oxidation-reduction process
+AT2G23010,Secondary metabolic process
+AT2G30250,Response to stress
+AT2G01430,Response to stress
+AT5G01050,Catabolic process,Oxidation-reduction process,Phenylpropanoid metabolic process,Cellular catabolic process,Secondary metabolic process,Organic substance catabolic process
+AT3G09940,Response to acid chemical,Response to other organism,Response to chemical,Response to stress,Oxidation-reduction process,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus
+AT2G30210,Catabolic process,Oxidation-reduction process,Phenylpropanoid metabolic process,Cellular catabolic process,Secondary metabolic process,Organic substance catabolic process
+AT2G47770,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT2G17500,Response to organic substance,Response to chemical
+AT5G24140,Oxidation-reduction process,Lipid metabolic process
+AT2G16005,Response to stress,Response to external stimulus
+AT5G39610,Response to acid chemical,Response to chemical,Response to antibiotic,Response to drug,Response to stress,Response to oxygen-containing compound,Response to toxic substance,Response to organic substance,Defense response
+AT1G68750,Oxidation-reduction process
+AT5G43840,Response to stress
+AT4G26090,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT1G13080,Response to stress,Oxidation-reduction process
+AT5G12030,Response to chemical,Response to antibiotic,Response to drug,Response to stress,Response to oxygen-containing compound,Response to toxic substance
+AT2G34340,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT2G27150,Oxidation-reduction process,Lipid metabolic process
+AT4G13250,Cellular catabolic process,Catabolic process,Oxidation-reduction process,Organic substance catabolic process
+AT3G50400,Catabolic process,Lipid metabolic process,Organic substance catabolic process
+AT1G75450,Catabolic process,Oxidation-reduction process
+AT5G05110,Response to stress,Defense response
+AT5G55590,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT2G45570,Oxidation-reduction process
+AT1G12740,Oxidation-reduction process,Lipid metabolic process
+AT5G17700,Response to drug,Response to chemical
+AT1G07430,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT1G75750,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT2G35980,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT2G38390,Response to chemical,Response to stress,Catabolic process,Oxidation-reduction process,Response to toxic substance,Cellular catabolic process
+AT5G03730,Lipid metabolic process,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT4G34060,Response to stress
+AT4G35350,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT5G35750,Response to acid chemical,Response to chemical,Response to stress,Catabolic process,Response to oxygen-containing compound,Response to toxic substance,Response to organic substance,Cellular catabolic process,Organic substance catabolic process
+AT2G42010,Lipid metabolic process,Response to other organism,Response to chemical,Response to stress,Catabolic process,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response,Organic substance catabolic process
+AT4G22950,Response to stress
+AT1G76790,Secondary metabolic process
+AT4G16260,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT2G46740,Oxidation-reduction process
+AT5G37500,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT1G02390,Lipid metabolic process
+AT4G18550,Cellular catabolic process,Catabolic process,Lipid metabolic process,Organic substance catabolic process
+AT3G15500,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT3G01190,Response to chemical,Response to stress,Catabolic process,Oxidation-reduction process,Response to toxic substance,Cellular catabolic process
+AT4G01895,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT5G25450,Oxidation-reduction process
+AT5G20830,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT1G80840,Response to wounding,Response to acid chemical,Response to other organism,Response to chemical,Response to antibiotic,Response to stress,Response to drug,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT1G12130,Response to acid chemical,Response to chemical,Response to antibiotic,Response to drug,Oxidation-reduction process,Response to oxygen-containing compound,Response to organic substance,Secondary metabolic process
+AT1G20160,Response to other organism,Response to chemical,Response to drug,Response to stress,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT5G25350,Response to chemical,Catabolic process,Response to organic substance,Cellular catabolic process,Organic substance catabolic process
+AT4G12270,Oxidation-reduction process
+AT1G07610,Response to chemical
+AT5G45800,Response to other organism,Response to chemical,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus
+AT2G44840,Response to chemical,Response to drug,Response to stress,Response to oxygen-containing compound,Response to organic substance,Defense response
+AT1G54790,Catabolic process,Lipid metabolic process,Organic substance catabolic process
+AT5G54380,Response to other organism,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT5G38020,Lipid metabolic process
+AT4G18780,Response to acid chemical,Response to other organism,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT4G16070,Catabolic process,Lipid metabolic process,Organic substance catabolic process
+AT3G46600,Response to organic substance,Response to drug,Response to oxygen-containing compound,Response to chemical
+AT4G05100,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT3G23550,Response to other organism,Response to chemical,Response to drug,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT2G35380,Response to chemical,Response to stress,Catabolic process,Oxidation-reduction process,Response to toxic substance,Cellular catabolic process
+AT3G43270,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT3G14205,Lipid metabolic process
+AT1G68360,Response to acid chemical,Response to chemical,Response to oxygen-containing compound,Response to organic substance,Secondary metabolic process
+AT4G34800,Response to organic substance,Response to chemical
+AT4G31800,Response to acid chemical,Response to other organism,Response to chemical,Response to antibiotic,Response to stress,Response to drug,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT4G14630,Response to stress
+AT5G42600,Lipid metabolic process
+AT2G47000,Response to organic substance,Response to drug,Response to external stimulus,Response to chemical
+AT1G60890,Lipid metabolic process
+AT2G31180,Response to acid chemical,Response to chemical,Response to antibiotic,Response to drug,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT2G25090,Response to stress
+AT4G18360,Response to other organism,Response to stress,Oxidation-reduction process,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT1G78290,Response to stress
+AT5G09980,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance,Defense response
+AT3G53980,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT5G16770,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT5G09600,Response to stress,Oxidation-reduction process
+AT2G19190,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT2G46030,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT3G53230,Response to chemical,Response to stress,Catabolic process,Response to organic substance,Cellular catabolic process,Organic substance catabolic process
+AT1G69930,Response to chemical,Catabolic process,Response to toxic substance,Cellular catabolic process,Secondary metabolic process
+AT2G01530,Response to organic substance,Response to stress,Defense response,Response to chemical
+AT1G55940,Oxidation-reduction process,Lipid metabolic process
+AT1G19530,Oxidation-reduction process
+AT2G19150,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT5G45900,Response to other organism,Response to stress,Catabolic process,Response to external biotic stimulus,Response to biotic stimulus,Cellular catabolic process,Response to external stimulus,Defense response
+AT4G29740,Catabolic process,Oxidation-reduction process
+AT3G53930,Cellular catabolic process,Catabolic process
+AT4G14990,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT5G34930,Oxidation-reduction process
+AT2G19800,Cellular catabolic process,Catabolic process,Oxidation-reduction process,Organic substance catabolic process
+AT1G19230,Oxidation-reduction process,Response to toxic substance,Response to chemical
+AT3G43190,Response to stress
+AT4G36740,Response to organic substance,Response to chemical
+AT3G14270,Lipid metabolic process
+AT4G37150,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT2G34930,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT1G35910,Response to stress
+AT5G16910,Response to stress
+AT2G30550,Catabolic process,Lipid metabolic process,Organic substance catabolic process
+AT5G23190,Lipid metabolic process,Oxidation-reduction process,Phenylpropanoid metabolic process,Secondary metabolic process
+AT1G04180,Oxidation-reduction process
+AT1G34670,Response to acid chemical,Response to antibiotic,Response to chemical,Response to drug,Response to oxygen-containing compound,Response to organic substance
+AT5G51060,Response to chemical,Response to drug,Oxidation-reduction process,Response to oxygen-containing compound,Response to toxic substance,Response to organic substance,Response to external stimulus
+AT1G35250,Lipid metabolic process
+AT1G05680,Response to acid chemical,Response to chemical,Response to antibiotic,Response to stress,Response to drug,Response to oxygen-containing compound,Response to toxic substance,Response to organic substance,Response to external stimulus
+AT1G26420,Oxidation-reduction process
+AT3G51960,Response to stress
+AT1G56630,Lipid metabolic process
+AT1G63770,Cellular catabolic process,Catabolic process,Organic substance catabolic process,Response to chemical
+AT5G25180,Oxidation-reduction process
+AT5G14070,Oxidation-reduction process
+AT2G41220,Oxidation-reduction process
+AT5G66700,Response to organic substance,Response to chemical
+AT2G41480,Response to chemical,Response to stress,Catabolic process,Oxidation-reduction process,Response to toxic substance,Cellular catabolic process
+AT5G06839,Response to other organism,Response to chemical,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus
+AT3G54950,Lipid metabolic process,Response to other organism,Catabolic process,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Organic substance catabolic process
+AT5G66400,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT3G30180,Oxidation-reduction process,Lipid metabolic process
+AT4G36830,Response to acid chemical,Lipid metabolic process,Response to chemical,Response to oxygen-containing compound,Response to organic substance
+AT5G15130,Response to stress,Defense response
+AT5G58670,Response to acid chemical,Lipid metabolic process,Response to chemical,Response to stress,Catabolic process,Response to oxygen-containing compound,Response to organic substance,Organic substance catabolic process
+AT2G22680,Response to external stimulus
+AT1G15780,Response to acid chemical,Lipid metabolic process,Response to antibiotic,Response to chemical,Response to drug,Response to oxygen-containing compound,Response to organic substance
+AT4G39850,Catabolic process,Lipid metabolic process,Organic substance catabolic process
+AT1G17440,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT1G65580,Response to wounding,Response to acid chemical,Lipid metabolic process,Response to chemical,Response to stress,Catabolic process,Response to oxygen-containing compound,Response to organic substance,Response to external stimulus,Organic substance catabolic process
+AT5G04970,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT5G48657,Response to stress,Defense response
+AT4G36070,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT2G26560,Lipid metabolic process,Response to other organism,Response to chemical,Response to stress,Catabolic process,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response,Organic substance catabolic process
+AT5G49665,Response to external stimulus
+AT5G47910,Response to wounding,Response to other organism,Response to chemical,Response to stress,Oxidation-reduction process,Response to external biotic stimulus,Response to biotic stimulus,Response to toxic substance,Response to external stimulus,Defense response
+AT3G25830,Lipid metabolic process
+AT5G24090,Response to wounding,Response to acid chemical,Response to other organism,Response to chemical,Response to stress,Catabolic process,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Cellular catabolic process,Response to external stimulus,Defense response,Organic substance catabolic process
+AT4G37310,Oxidation-reduction process,Secondary metabolic process
+AT1G35310,Response to stress,Defense response
+AT1G72140,Response to biotic stimulus,Response to external stimulus,Response to other organism,Response to external biotic stimulus
+AT3G58810,Response to stress,Response to toxic substance,Response to chemical
+AT1G77640,Response to organic substance,Response to chemical
+AT1G14780,Response to stress,Defense response
+AT2G35770,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT1G09560,Response to stress
+AT5G46720,Catabolic process,Organic substance catabolic process
+AT2G38410,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT1G62570,Oxidation-reduction process,Secondary metabolic process
+AT4G34250,Lipid metabolic process
+AT5G48400,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT1G10050,Catabolic process,Organic substance catabolic process
+AT1G12480,Response to acid chemical,Response to chemical,Response to antibiotic,Response to drug,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT2G47800,Response to wounding,Response to acid chemical,Response to other organism,Response to chemical,Response to stress,Response to drug,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus
+AT1G06080,Oxidation-reduction process,Lipid metabolic process
+AT5G44790,Response to organic substance,Response to chemical
+AT4G19230,Lipid metabolic process,Response to other organism,Response to stress,Catabolic process,Oxidation-reduction process,Response to external biotic stimulus,Response to biotic stimulus,Cellular catabolic process,Response to external stimulus,Defense response,Organic substance catabolic process
+AT2G29090,Lipid metabolic process,Catabolic process,Oxidation-reduction process,Cellular catabolic process,Organic substance catabolic process
+AT2G03200,Catabolic process,Organic substance catabolic process
+AT5G42580,Oxidation-reduction process
+AT1G19610,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT1G08920,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT3G59930,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT1G74020,Response to wounding,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance,Response to external stimulus
+AT1G12950,Response to drug,Response to chemical
+AT5G23980,Oxidation-reduction process
+AT5G05440,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT5G25370,Response to acid chemical,Lipid metabolic process,Response to chemical,Response to stress,Catabolic process,Response to oxygen-containing compound,Response to organic substance,Cellular catabolic process,Organic substance catabolic process
+AT5G45380,Response to stress,Response to external stimulus
+AT5G55470,Response to stress
+AT1G05260,Response to acid chemical,Response to chemical,Response to stress,Catabolic process,Oxidation-reduction process,Response to oxygen-containing compound,Response to toxic substance,Cellular catabolic process
+AT4G20230,Lipid metabolic process
+AT4G19660,Response to acid chemical,Response to other organism,Response to chemical,Response to antibiotic,Response to stress,Response to drug,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT3G10740,Catabolic process,Organic substance catabolic process
+AT3G15510,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT3G05970,Response to acid chemical,Lipid metabolic process,Response to chemical,Response to antibiotic,Response to drug,Response to stress,Response to oxygen-containing compound
+AT4G36630,Cellular catabolic process,Catabolic process
+AT5G53550,Response to other organism,Response to chemical,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus
+AT5G11250,Response to stress
+AT4G13290,Oxidation-reduction process
+AT1G15740,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT1G28610,Catabolic process,Lipid metabolic process,Organic substance catabolic process
+AT5G65730,Response to stress,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT1G15210,Response to drug,Response to chemical
+AT1G03380,Response to stress,Catabolic process,Response to external stimulus,Cellular catabolic process
+AT3G59940,Response to organic substance,Phenylpropanoid metabolic process,Secondary metabolic process,Response to chemical
+AT3G09350,Response to stress
+AT2G33150,Response to wounding,Response to acid chemical,Lipid metabolic process,Response to chemical,Response to stress,Catabolic process,Oxidation-reduction process,Response to oxygen-containing compound,Response to toxic substance,Response to organic substance,Cellular catabolic process,Secondary metabolic process,Organic substance catabolic process
+AT2G43580,Response to other organism,Response to stress,Catabolic process,Response to external biotic stimulus,Response to biotic stimulus,Cellular catabolic process,Response to external stimulus,Defense response,Organic substance catabolic process
+AT5G04045,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT1G72300,Response to stress,Defense response
+AT1G68850,Response to chemical,Response to stress,Catabolic process,Oxidation-reduction process,Response to toxic substance,Cellular catabolic process
+AT3G07970,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT3G50700,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT1G17340,Lipid metabolic process
+AT3G14395,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT2G23540,Catabolic process,Lipid metabolic process,Organic substance catabolic process
+AT3G09810,Oxidation-reduction process
+AT4G19520,Response to stress,Defense response,Response to chemical
+AT2G43120,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT2G39040,Response to chemical,Response to stress,Catabolic process,Oxidation-reduction process,Response to toxic substance,Cellular catabolic process
+AT5G24155,Oxidation-reduction process,Lipid metabolic process
+AT1G10480,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT5G18670,Catabolic process,Organic substance catabolic process
+AT5G64900,Response to wounding,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance,Defense response
+AT1G11080,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT5G65790,Response to acid chemical,Response to antibiotic,Response to chemical,Response to drug,Response to oxygen-containing compound,Response to organic substance
+AT1G14370,Response to stress,Defense response
+AT3G02940,Response to acid chemical,Response to antibiotic,Response to chemical,Response to drug,Response to oxygen-containing compound,Response to organic substance
+AT4G30790,Cellular catabolic process,Catabolic process,Oxidation-reduction process,Organic substance catabolic process
+AT3G08970,Response to stress,Oxidation-reduction process
+AT1G06310,Lipid metabolic process,Catabolic process,Oxidation-reduction process,Cellular catabolic process,Organic substance catabolic process
+AT1G54040,Response to acid chemical,Response to other organism,Response to chemical,Response to stress,Catabolic process,Response to oxygen-containing compound,Response to external biotic stimulus,Defense response,Response to biotic stimulus,Response to organic substance,Cellular catabolic process,Response to external stimulus,Secondary metabolic process,Organic substance catabolic process
+AT3G59770,Response to stress,Lipid metabolic process
+AT5G06600,Response to acid chemical,Response to chemical,Catabolic process,Response to oxygen-containing compound,Response to organic substance,Cellular catabolic process,Organic substance catabolic process
+AT5G43560,Response to stress,Catabolic process,Defense response,Cellular catabolic process
+AT5G48410,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT1G04220,Response to wounding,Lipid metabolic process,Response to stress,Phenylpropanoid metabolic process,Secondary metabolic process
+AT2G32700,Response to wounding,Response to acid chemical,Response to other organism,Response to chemical,Response to antibiotic,Response to stress,Response to drug,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to toxic substance,Response to organic substance,Response to external stimulus
+AT4G30200,Response to stress
+AT4G31670,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT5G42870,Response to stress,Lipid metabolic process,Response to external stimulus
+AT2G31260,Response to other organism,Response to stress,Catabolic process,Response to external biotic stimulus,Response to biotic stimulus,Cellular catabolic process,Response to external stimulus,Defense response
+AT3G14680,Oxidation-reduction process
+AT2G22980,Secondary metabolic process
+AT1G68320,Response to acid chemical,Lipid metabolic process,Response to chemical,Response to antibiotic,Response to stress,Response to drug,Response to oxygen-containing compound,Response to organic substance,Response to external stimulus,Secondary metabolic process
+AT5G20860,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT3G59700,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT3G45860,Response to acid chemical,Response to other organism,Response to chemical,Response to antibiotic,Response to stress,Response to drug,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT2G14170,Response to stress,Catabolic process,Oxidation-reduction process,Cellular catabolic process,Organic substance catabolic process
+AT1G53903,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance,Response to external stimulus
+AT4G15380,Oxidation-reduction process
+AT2G32010,Response to stress,Lipid metabolic process
+AT3G13530,Response to stress
+AT5G63560,Phenylpropanoid metabolic process,Secondary metabolic process
+AT3G27660,Response to stress
+AT4G13235,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT4G13280,Response to wounding,Response to stress,Lipid metabolic process
+AT1G12640,Lipid metabolic process
+AT4G29140,Response to drug,Response to stress,Defense response,Response to chemical
+AT1G06520,Lipid metabolic process
+AT1G34260,Lipid metabolic process
+AT4G04740,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT4G11650,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT4G28490,Response to other organism,Response to stress,Catabolic process,Response to external biotic stimulus,Response to biotic stimulus,Cellular catabolic process,Response to external stimulus,Defense response,Organic substance catabolic process
+AT5G54000,Oxidation-reduction process
+AT3G27220,Oxidation-reduction process
+AT4G13350,Response to biotic stimulus,Response to external stimulus,Response to other organism,Response to external biotic stimulus
+AT3G59950,Cellular catabolic process,Catabolic process
+AT1G58180,Response to organic substance,Response to drug,Response to oxygen-containing compound,Response to chemical
+AT5G54080,Cellular catabolic process,Catabolic process,Oxidation-reduction process,Organic substance catabolic process
+AT1G12240,Response to acid chemical,Response to other organism,Response to chemical,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus
+AT1G63390,Oxidation-reduction process
+AT5G43450,Oxidation-reduction process,Secondary metabolic process
+AT2G25490,Response to chemical,Catabolic process,Response to organic substance,Cellular catabolic process,Organic substance catabolic process
+AT5G16960,Oxidation-reduction process
+AT3G54770,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT1G26730,Response to stress,Response to external stimulus
+AT3G03470,Oxidation-reduction process
+AT1G11190,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT5G53970,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT3G05700,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT3G13330,Response to stress,Catabolic process,Organic substance catabolic process,Cellular catabolic process
+AT3G11430,Lipid metabolic process,Phenylpropanoid metabolic process,Secondary metabolic process
+AT1G56680,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT4G19700,Response to acid chemical,Response to other organism,Response to chemical,Response to stress,Catabolic process,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Cellular catabolic process,Response to external stimulus,Defense response,Organic substance catabolic process
+AT5G47220,Response to acid chemical,Response to other organism,Response to chemical,Response to stress,Response to drug,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT2G40670,Response to organic substance,Response to chemical
+AT1G33055,Oxidation-reduction process
+AT1G08930,Response to acid chemical,Response to chemical,Response to drug,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT3G19190,Response to other organism,Response to stress,Catabolic process,Response to external biotic stimulus,Response to biotic stimulus,Cellular catabolic process,Response to external stimulus,Defense response
+AT1G77300,Response to stress,Lipid metabolic process,Defense response
+AT3G16785,Catabolic process,Lipid metabolic process,Organic substance catabolic process
+AT1G80210,Response to stress
+AT2G14720,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT5G42900,Response to stress
+AT5G45920,Catabolic process,Lipid metabolic process,Organic substance catabolic process
+AT2G43020,Cellular catabolic process,Catabolic process,Oxidation-reduction process,Organic substance catabolic process
+AT4G34390,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT1G31280,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT5G49520,Response to other organism,Response to chemical,Response to drug,Response to stress,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT2G29450,Response to chemical,Response to stress,Catabolic process,Response to toxic substance,Cellular catabolic process,Secondary metabolic process
+AT1G50420,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT4G36990,Response to stress
+AT3G22060,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT5G26940,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT1G54710,Response to stress,Catabolic process,Response to external stimulus,Cellular catabolic process
+AT3G23410,Oxidation-reduction process
+AT5G63580,Response to organic substance,Oxidation-reduction process,Response to chemical
+AT1G12160,Response to acid chemical,Response to chemical,Response to antibiotic,Response to drug,Oxidation-reduction process,Response to oxygen-containing compound,Response to organic substance,Secondary metabolic process
+AT3G09440,Response to other organism,Response to chemical,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus
+AT4G33150,Cellular catabolic process,Catabolic process,Oxidation-reduction process,Organic substance catabolic process
+AT1G66100,Response to stress,Defense response
+AT1G06570,Cellular catabolic process,Catabolic process,Oxidation-reduction process,Organic substance catabolic process
+AT3G44326,Lipid metabolic process
+AT4G13510,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT1G28580,Catabolic process,Lipid metabolic process,Organic substance catabolic process
+AT4G39070,Response to organic substance,Response to drug,Response to oxygen-containing compound,Response to chemical
+AT5G48180,Cellular catabolic process,Catabolic process,Secondary metabolic process,Organic substance catabolic process
+AT3G05290,Lipid metabolic process,Response to chemical,Response to drug,Catabolic process,Oxidation-reduction process,Cellular catabolic process,Organic substance catabolic process
+AT3G30775,Response to acid chemical,Response to other organism,Response to chemical,Response to stress,Catabolic process,Oxidation-reduction process,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Cellular catabolic process,Response to external stimulus,Defense response,Organic substance catabolic process
+AT5G14450,Catabolic process,Lipid metabolic process,Organic substance catabolic process
+AT3G18290,Response to stress,Response to external stimulus
+AT2G46680,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT1G24030,Response to stress,Defense response
+AT2G37360,Phenylpropanoid metabolic process,Secondary metabolic process
+AT1G08320,Response to other organism,Response to chemical,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus
+AT1G09850,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT1G32340,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT4G35290,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT3G52850,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT5G19120,Catabolic process,Organic substance catabolic process
+AT3G63070,Response to stress,Oxidation-reduction process,Response to toxic substance,Response to chemical
+AT2G44450,Response to stress,Catabolic process,Cellular catabolic process,Secondary metabolic process,Organic substance catabolic process
+AT4G01610,Response to stress,Catabolic process,Cellular catabolic process,Defense response,Organic substance catabolic process
+AT4G26690,Lipid metabolic process
+AT3G13610,Response to chemical,Response to antibiotic,Response to drug,Response to stress,Oxidation-reduction process,Response to oxygen-containing compound,Phenylpropanoid metabolic process,Response to toxic substance,Response to external stimulus,Secondary metabolic process
+AT3G19270,Lipid metabolic process,Catabolic process,Oxidation-reduction process,Cellular catabolic process,Organic substance catabolic process
+AT4G11900,Response to stress,Defense response
+AT1G14960,Response to stress,Defense response
+AT2G41790,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT1G72450,Response to wounding,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance,Defense response
+AT4G14160,Cellular catabolic process,Catabolic process
+AT1G01600,Oxidation-reduction process,Lipid metabolic process
+AT3G50970,Response to acid chemical,Response to other organism,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT3G43220,Lipid metabolic process
+AT1G05620,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT5G07475,Oxidation-reduction process
+AT4G33240,Lipid metabolic process
+AT1G20120,Catabolic process,Lipid metabolic process,Organic substance catabolic process
+AT1G02310,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT1G10040,Lipid metabolic process
+AT2G24180,Oxidation-reduction process
+AT2G23030,Response to stress
+AT5G27520,Lipid metabolic process,Response to chemical,Response to drug,Catabolic process,Oxidation-reduction process,Cellular catabolic process,Organic substance catabolic process
+AT2G39050,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT3G53180,Response to acid chemical,Response to other organism,Response to chemical,Catabolic process,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Organic substance catabolic process
+AT1G73130,Response to stress
+AT1G12220,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT4G10590,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT5G18640,Lipid metabolic process
+AT3G58750,Lipid metabolic process,Catabolic process,Oxidation-reduction process,Cellular catabolic process,Organic substance catabolic process
+AT1G07520,Response to organic substance,Response to drug,Response to oxygen-containing compound,Response to chemical
+AT3G17810,Catabolic process,Oxidation-reduction process,Cellular catabolic process,Response to external stimulus,Organic substance catabolic process
+AT3G10800,Response to organic substance,Response to stress,Response to chemical
+AT5G49900,Cellular catabolic process,Catabolic process,Lipid metabolic process,Organic substance catabolic process
+AT2G29120,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT4G21910,Response to drug,Response to chemical
+AT4G19030,Response to drug,Response to stress,Defense response,Response to chemical
+AT5G56550,Response to stress,Response to chemical
+AT5G63590,Response to organic substance,Oxidation-reduction process,Response to chemical
+AT1G27320,Response to acid chemical,Response to other organism,Response to chemical,Response to stress,Catabolic process,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Cellular catabolic process,Response to external stimulus,Defense response,Organic substance catabolic process
+AT2G33580,Response to chemical,Response to drug,Response to stress,Response to oxygen-containing compound,Response to organic substance,Defense response
+AT4G30640,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT5G18525,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT2G01650,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT5G57110,Response to biotic stimulus,Response to external stimulus,Response to other organism,Response to external biotic stimulus
+AT2G16060,Response to drug,Response to stress,Response to chemical
+AT2G07671,Oxidation-reduction process
+AT1G08620,Oxidation-reduction process
+AT3G16920,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT4G20820,Oxidation-reduction process
+AT1G33360,Catabolic process,Organic substance catabolic process
+AT3G05360,Response to other organism,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT1G28670,Catabolic process,Lipid metabolic process,Organic substance catabolic process
+AT5G07130,Catabolic process,Oxidation-reduction process,Phenylpropanoid metabolic process,Cellular catabolic process,Secondary metabolic process,Organic substance catabolic process
+AT5G24910,Oxidation-reduction process
+AT4G25000,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT2G35700,Response to organic substance,Response to chemical
+AT1G51350,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT1G59620,Response to stress,Defense response
+AT1G18270,Oxidation-reduction process
+AT5G04190,Response to external stimulus
+AT4G39030,Response to acid chemical,Response to other organism,Response to chemical,Response to antibiotic,Response to stress,Response to drug,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT1G48930,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT2G19310,Response to chemical,Response to antibiotic,Response to drug,Response to stress,Response to oxygen-containing compound,Response to toxic substance
+AT5G44390,Oxidation-reduction process
+AT3G58620,Response to stress
+AT5G57390,Response to organic substance,Response to chemical
+AT4G10730,Response to stress
+AT3G45300,Cellular catabolic process,Catabolic process,Oxidation-reduction process,Organic substance catabolic process
+AT2G37440,Lipid metabolic process
+AT5G46350,Response to acid chemical,Response to other organism,Response to chemical,Response to antibiotic,Response to stress,Response to drug,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to toxic substance,Response to organic substance,Response to external stimulus,Defense response
+AT4G24690,Cellular catabolic process,Catabolic process
+AT3G51860,Response to other organism,Response to chemical,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus
+ATMG00580,Oxidation-reduction process
+AT1G76490,Oxidation-reduction process,Lipid metabolic process
+AT2G16720,Response to acid chemical,Response to chemical,Response to antibiotic,Response to drug,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT3G58350,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT2G29940,Response to drug,Response to chemical
+AT2G29460,Response to other organism,Response to chemical,Response to stress,Catabolic process,Response to external biotic stimulus,Defense response,Response to biotic stimulus,Response to toxic substance,Cellular catabolic process,Response to external stimulus,Secondary metabolic process
+AT5G05410,Response to acid chemical,Response to chemical,Response to antibiotic,Response to drug,Response to stress,Response to oxygen-containing compound,Response to toxic substance
+AT3G48300,Oxidation-reduction process
+AT5G03340,Response to chemical,Response to stress,Catabolic process,Response to organic substance,Cellular catabolic process,Organic substance catabolic process
+AT5G59720,Response to chemical,Response to antibiotic,Response to drug,Response to stress,Response to oxygen-containing compound,Response to toxic substance
+AT5G53390,Lipid metabolic process
+AT1G50560,Oxidation-reduction process
+AT5G24360,Response to acid chemical,Response to other organism,Response to chemical,Response to antibiotic,Response to stress,Catabolic process,Response to drug,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Cellular catabolic process,Response to external stimulus,Defense response
+AT1G23800,Oxidation-reduction process
+AT1G49740,Lipid metabolic process
+AT4G12290,Oxidation-reduction process
+AT3G16030,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT3G07700,Lipid metabolic process,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to external stimulus
+AT1G25540,Response to acid chemical,Response to other organism,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT3G29250,Oxidation-reduction process
+AT5G38895,Response to organic substance,Response to drug,Response to oxygen-containing compound,Response to chemical
+AT2G31880,Response to stress,Defense response
+AT1G52890,Response to stress,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT3G48390,Response to stress,Response to external stimulus
+AT5G18070,Response to stress
+AT3G01540,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT2G22970,Secondary metabolic process
+AT2G22990,Phenylpropanoid metabolic process,Secondary metabolic process
+AT3G49620,Oxidation-reduction process
+AT1G06620,Oxidation-reduction process
+AT3G63150,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT2G18700,Response to stress
+AT1G05520,Cellular catabolic process,Catabolic process
+AT1G01140,Response to wounding,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance,Response to external stimulus
+AT2G22660,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT5G63660,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT5G04020,Response to stress,Defense response
+AT3G46730,Response to stress,Defense response
+AT5G37710,Catabolic process,Lipid metabolic process,Organic substance catabolic process
+AT5G60890,Response to acid chemical,Response to other organism,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to external biotic stimulus,Defense response,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Secondary metabolic process
+AT4G36400,Oxidation-reduction process
+AT4G23170,Response to acid chemical,Response to other organism,Response to chemical,Response to antibiotic,Response to stress,Response to drug,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT1G66160,Response to organic substance,Response to drug,Response to oxygen-containing compound,Response to chemical
+AT1G28130,Response to organic substance,Response to chemical
+AT3G14530,Lipid metabolic process
+AT1G48500,Response to wounding,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance,Defense response
+AT5G61580,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT5G01820,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT1G24460,Response to stress
+AT4G20840,Oxidation-reduction process
+AT5G67480,Response to wounding,Response to acid chemical,Response to chemical,Response to antibiotic,Response to drug,Response to stress,Response to oxygen-containing compound,Response to toxic substance,Response to organic substance
+AT3G11660,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT3G07550,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT2G38760,Response to stress,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT5G19100,Catabolic process,Organic substance catabolic process
+AT5G60600,Response to acid chemical,Lipid metabolic process,Response to other organism,Response to chemical,Response to antibiotic,Response to stress,Response to drug,Oxidation-reduction process,Response to oxygen-containing compound,Response to external biotic stimulus,Response to biotic stimulus,Response to organic substance,Response to external stimulus,Defense response
+AT2G46510,Response to wounding,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT5G54830,Oxidation-reduction process
+AT1G60680,Oxidation-reduction process
+AT5G10610,Oxidation-reduction process,Secondary metabolic process
+AT1G77330,Response to stress,Oxidation-reduction process,Defense response
+AT1G22440,Response to chemical,Catabolic process,Oxidation-reduction process,Response to oxygen-containing compound,Response to toxic substance,Response to organic substance,Cellular catabolic process,Organic substance catabolic process
+AT4G29800,Lipid metabolic process,Response to stress,Catabolic process,Defense response,Organic substance catabolic process
+AT1G76190,Response to organic substance,Response to chemical
+AT3G23790,Lipid metabolic process
+AT5G59320,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT1G32330,Response to stress
+AT1G64160,Phenylpropanoid metabolic process,Secondary metabolic process
+AT4G01540,Response to organic substance,Response to chemical
+AT5G61500,Cellular catabolic process,Catabolic process
+AT3G62590,Lipid metabolic process,Response to other organism,Response to stress,Catabolic process,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response,Organic substance catabolic process
+AT3G06810,Oxidation-reduction process,Lipid metabolic process
+AT4G08870,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT1G62280,Response to stress,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT5G15970,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT3G12640,Cellular catabolic process,Catabolic process,Organic substance catabolic process
+AT4G35970,Response to chemical,Response to stress,Catabolic process,Oxidation-reduction process,Response to oxygen-containing compound,Response to toxic substance,Cellular catabolic process
+AT4G14465,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT5G17880,Response to other organism,Response to stress,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response
+AT4G22200,Response to organic substance,Response to acid chemical,Response to oxygen-containing compound,Response to chemical
+AT4G02280,Response to acid chemical,Response to chemical,Response to stress,Response to oxygen-containing compound,Response to organic substance
+AT1G75340,Response to organic substance,Response to oxygen-containing compound,Response to chemical
+AT3G44260,Response to wounding,Response to other organism,Response to stress,Catabolic process,Response to external biotic stimulus,Response to biotic stimulus,Cellular catabolic process,Response to external stimulus,Defense response,Organic substance catabolic process
+AT3G47340,Response to chemical,Response to stress,Catabolic process,Response to oxygen-containing compound,Response to organic substance,Cellular catabolic process,Response to external stimulus,Organic substance catabolic process
+AT1G61850,Lipid metabolic process,Response to other organism,Response to stress,Catabolic process,Response to external biotic stimulus,Response to biotic stimulus,Response to external stimulus,Defense response,Organic substance catabolic process
