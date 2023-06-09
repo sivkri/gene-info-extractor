@@ -2,7 +2,6 @@
 
 This python script will extract information about the BP, MF, CC information for the input gene_ID
 
-```
 # Gene Information Extractor
 
 This repository contains a Python script for extracting gene information from a given dataset. The script takes two CSV files as input: one containing gene information and another containing a list of gene IDs to query. It then outputs the corresponding gene annotations for each gene ID.
